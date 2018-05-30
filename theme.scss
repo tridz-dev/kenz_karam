@@ -79,7 +79,7 @@ $border-radius-lg: $border-radius * 0;
 $border-radius-sm: $border-radius * 0;
 
 
-@import 'bootstrap-4.0.0-beta.1';
+@import 'bootstrap-4.0.0';
 
 // fix yiq for backgrounds
 @each $name, $value in $theme-colors {
